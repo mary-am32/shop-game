@@ -1,0 +1,13 @@
+
+section.home .sectiontitle{
+text-transform:uppercase ;
+}
+.viewmore{
+text-decoration: none;
+color: #ffffff;
+font-size: 1.2rem;
+transition: 0.3s;
+}
+.viewmore:hover{
+    color: var(--second);
+}
